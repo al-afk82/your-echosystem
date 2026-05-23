@@ -107,4 +107,4 @@ Delete the index anytime. Rebuild from your files with one command. You never lo
 
 ---
 
-Source: [github.com/prefrontal-systems/cortexgraph](https://github.com/prefrontal-systems/cortexgraph) — inspired by [aris-space.com/documents/memory/cortex](https://www.aris-space.com/documents/memory/cortex)
+Source: [github.com/prefrontal-systems/cortexgraph](https://github.com/prefrontal-systems/cortexgraph)

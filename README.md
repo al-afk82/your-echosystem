@@ -91,6 +91,6 @@ Install context-mode first. Install Cortex once your brain has real content.
 
 ---
 
-## Built on
+## The principle
 
-Inspired by the Cortex memory architecture documented at [aris-space.com](https://www.aris-space.com/documents/memory/cortex). Files own the truth. The brain owns the connections.
+Files own the truth. The brain owns the connections.
