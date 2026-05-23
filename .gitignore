@@ -1,0 +1,9 @@
+# Projects have their own git repos — don't track them here
+projects/
+
+# Environment files
+.env
+.env.local
+
+# OS
+.DS_Store
