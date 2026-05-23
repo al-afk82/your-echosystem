@@ -78,6 +78,19 @@ Already running. No setup required. Read `projects/learning-loop/CLAUDE.md` to u
 
 ---
 
+## Integrations
+
+Two optional layers that make the echosystem smarter. Both are toggleable — install what you need.
+
+| Integration | What it does |
+|-------------|-------------|
+| [Context Mode](integrations/context-mode/setup.md) | Compresses tool output by 98% — keeps sessions lean |
+| [Cortex](integrations/cortex/setup.md) | Persistent memory — Claude arrives informed, not blank |
+
+Install context-mode first. Install Cortex once your brain has real content.
+
+---
+
 ## Built on
 
 Inspired by the Cortex memory architecture documented at [aris-space.com](https://www.aris-space.com/documents/memory/cortex). Files own the truth. The brain owns the connections.
